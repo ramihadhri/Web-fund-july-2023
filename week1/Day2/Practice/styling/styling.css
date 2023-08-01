@@ -1,0 +1,23 @@
+h1 {
+    color: cyan;
+    background-color: black;
+    height: 60px;
+    text-size-adjust: 60px;
+  }
+  span{
+    color: aliceblue ;
+  }
+ div {
+  color: aliceblue;
+  background-color: blueviolet;
+  text-align: center;
+  font-style: italic;
+  height: 50px;
+ }
+ p{
+  color: black;
+  background-color: aquamarine;
+  text-align: end;
+  text-decoration-line: underline;
+ }
+  
